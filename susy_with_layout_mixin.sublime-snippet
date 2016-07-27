@@ -8,5 +8,5 @@
 	<tabTrigger>wl</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.sass, source.scss</scope>
-	<description>Susy With Layout Mixin</description>
+	<description>Layout Mixin</description>
 </snippet>
